@@ -51,21 +51,19 @@ Follow the curriculum in order, or jump to any section you’re ready for. Each 
 
 | Step | Topic | Link | Est. Duration |
 |------|-------|------|---------------|
-| 1 | 🛠️ Programming | [Start Here](./curriculum/01_programming.md) | 4–6 weeks |
-| 2 | 📐 Math for AI | [Start Here](./curriculum/02_math.md) | 6–8 weeks |
-| 3 | 🤖 Machine Learning | [Start Here](./curriculum/03_machine-learning.md) | 6–8 weeks |
-| 4 | 🧠 Deep Learning | [Start Here](./curriculum/04_deep-learning.md) | 4–6 weeks |
-| 5 | 🔬 NLP | [Natural Language Processing](./curriculum/05_specializations/nlp.md) | 3–4 weeks |
-|   | 👁️ Computer Vision | [Computer Vision](./curriculum/05_specializations/computer-vision.md) | 3–4 weeks |
-|   | 🧭 RL | [Reinforcement Learning](./curriculum/05_specializations/reinforcement-learning.md) | 3–5 weeks |
-| 6 | 🚀 LLMs | [Large Language Models](./curriculum/06_modern-ai/llms.md) | 2–3 weeks |
-|   | ⚙️ Agentic AI | [Agentic AI](./curriculum/06_modern-ai/agentic-ai.md) | 2–3 weeks |
-|   | 🔄 RAG | [Retrieval-Augmented Generation](./curriculum/06_modern-ai/rag.md) | 1–2 weeks |
-|   | 🧠 Prompt Engineering | [Prompt Engineering](./curriculum/06_modern-ai/prompt-engineering.md) | 1–2 weeks |
-|   | 🧰 AI Tooling | [AI Tooling](./curriculum/06_modern-ai/ai-tooling.md) | 1–2 weeks |
-| 7 | 🧪 Capstone | [Capstone Projects](./curriculum/07_capstone-projects.md) | Ongoing |
-
-> 🔗 Full curriculum lives under [`/curriculum`](./curriculum)
+| 1 | 🛠️ Programming | [Start Here](./01_foundation/01_programming.md) | 4–6 weeks |
+| 2 | 📐 Math for AI | [Start Here](./01_foundation/02_math.md) | 6–8 weeks |
+| 3 | 🤖 Machine Learning | [Start Here](./01_foundation/03_machine-learning.md) | 6–8 weeks |
+| 4 | 🧠 Deep Learning | [Start Here](./01_foundation/04_deep-learning.md) | 4–6 weeks |
+| 5 | 🔬 NLP | [Natural Language Processing](./02_specializations/nlp.md) | 3–4 weeks |
+|   | 👁️ Computer Vision | [Computer Vision](./02_specializations/computer-vision.md) | 3–4 weeks |
+|   | 🧭 RL | [Reinforcement Learning](./02_specializations/reinforcement-learning.md) | 3–5 weeks |
+| 6 | 🚀 LLMs | [Large Language Models](./03_modern-Ai/01_llms.md) | 2–3 weeks |
+|   | ⚙️ Agentic AI | [Agentic AI](./03_modern-Ai/02_agentic-ai.md) | 2–3 weeks |
+|   | 🔄 RAG | [Retrieval-Augmented Generation](./03_modern-Ai/03_rag.md) | 1–2 weeks |
+|   | 🧠 Prompt Engineering | [Prompt Engineering](./03_modern-Ai/04_prompt-engineering.md) | 1–2 weeks |
+|   | 🧰 AI Tooling | [AI Tooling](./03_modern-Ai/05_ai-tooling.md) | 1–2 weeks |
+| 7 | 🧪 Capstone | [Capstone Projects](./04_capstone-project/capstone-projects.md) | Ongoing |
 
 ## Goals
 
@@ -84,7 +82,7 @@ Follow the curriculum in order, or jump to any section you’re ready for. Each 
 
 ## How to Use This
 
-1. Start from the top of the [curriculum](./curriculum)
+1. Start with the [Foundational](./01_foundation)
 2. Work at your own pace — most tracks list beginner → advanced
 3. Track your progress in a fork or markdown file
 4. Build portfolio projects as you go

@@ -1,4 +1,3 @@
-
 # Capstone Projects
 
 Capstone projects bring everything you’ve learned into real-world, end-to-end AI applications. These projects are designed to showcase your technical depth, creativity, and readiness to work as an AI engineer.
