@@ -7,16 +7,12 @@ This project loosely follows Semantic Versioning:
 - **MINOR** – Replacing or improving courses within a topic  
 - **PATCH** – Aesthetic tweaks, structure changes, new docs, small fixes  
 
----
-
-## [0.1.1] – 2025-05-17
+## [0.3.1] – 2025-05-17
 ### Added
 - **CHANGELOG.md** – this file to track updates.
 - **CODE_OF_CONDUCT.md** – adopted Contributor Covenant as default code of conduct.
 
----
-
-## [0.1.0] – 2025-05-16
+## [0.3.0] – 2025-05-16
 ### Added
 - 🎓 Full AI Curriculum Structure:
   - `01_programming.md` – Python, Git, Linux, Data Structures
@@ -33,22 +29,19 @@ This project loosely follows Semantic Versioning:
   - `06_modern-ai/ai-tooling.md` – Toolkits and infra (e.g., Hugging Face, Weights & Biases)
   - `07_capstone-projects.md` – AI Portfolio Projects
 
-### Other Additions
+## [0.2.2] – 2025-05-14
+### Added
 - `CONTRIBUTING.md` – guidelines for contributors
 - Downloadable README with structured learning path and TOC
 - `roadmap.png` – curriculum visual overview
 - GitHub repo organization and folder structure
 
----
-
-## [0.0.3] – 2025-05-14
+## [0.2.1] – 2025-05-14
 ### Added
 - 🧪 **Capstone Projects** section added to curriculum
 - Drafted project ideas: Personal GPT, Resume Parser, AI Agents, etc.
 
----
-
-## [0.0.2] – 2025-05-12
+## [0.2.0] – 2025-05-12
 ### Added
 - 📦 Modern AI modules:
   - `06_modern-ai/llms.md`
@@ -57,18 +50,14 @@ This project loosely follows Semantic Versioning:
   - `06_modern-ai/prompt-engineering.md`
   - `06_modern-ai/ai-tooling.md`
 
----
-
-## [0.0.1] – 2024-05-03
+## [0.1.1] – 2024-05-03
 ### Added
 - ✨ Specializations:
   - NLP
   - Computer Vision
   - Reinforcement Learning
 
----
-
-## [0.0.0] – 2024-04-12
+## [0.1.0] – 2024-04-12
 ### Added
 - 🔰 Initial Public Release
   - Project README with Table of Contents, goals, and path
